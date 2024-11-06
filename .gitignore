@@ -1,0 +1,16 @@
+# Ignorar archivos del sistema
+.DS_Store
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar el entorno virtual
+venv/
+.venv/
+
+# Ignorar directorios de imágenes
+food-101
+
+# Ignorar archivos específicos
+license_agreement.txt
+json.txt
